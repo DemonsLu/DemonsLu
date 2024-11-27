@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on [Habby](https://www.habby.com)
+- 🌱 I’m currently learning Unity
+- 💬 Ask me about Cloud Native / AWS / Game Server / Unity Develop
+- 📫 How to reach me: demon_by@qq.com
+- 😄 Pronouns: Tech Otaku
