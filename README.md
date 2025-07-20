@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [Habby](https://www.habby.com)
-- 🌱 I’m currently learning [Unity](https://www.unity.com/)
+- 🔭 I’m currently working by myself
+- 🌱 I’m currently learning AI
 - 💬 Ask me about Cloud Native / AWS / Game Server / Unity Develop
 - 📫 How to reach me: demon_by@qq.com
 - 😄 Pronouns: Tech Otaku
