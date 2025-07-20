@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working by myself
 - 🌱 I’m currently learning AI
-- 💬 Ask me about Cloud Native / AWS / Game Server / Unity Develop
-- 📫 How to reach me: demon_by@qq.com
+- 💬 Ask me about Cloud Native / AWS / Game Backend / Unity Develop
+- 📫 How to reach me: demon_by@qq.com / demonsxu1210@gmail.com
 - 😄 Pronouns: Tech Otaku
